@@ -31,7 +31,7 @@ namespace Statements_and_Expressions_Again
                 + (0.2 * 50 / 2 + 7 - 2))));
             Console.WriteLine("Total Points: 50");
 
-            Console.WriteLine(15 % 7);
+            
 
 
         }
