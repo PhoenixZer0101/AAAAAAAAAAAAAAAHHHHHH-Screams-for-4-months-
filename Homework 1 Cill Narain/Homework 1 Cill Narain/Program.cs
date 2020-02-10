@@ -62,6 +62,7 @@ namespace Homework_1_Cill_Narain
                 truth = false;
                 Console.Write("You lie and say that you're fine and that you'll be at her math class today, as you're walking to class, " +
                     "\nyou bump into a very special person, and they notice you, do you TALK to them or can you just WAVE? ");
+                ///if you choose lie, then these prompts occur!!!
                 talkToSpecialPerson = Console.ReadLine().Trim().ToLower();
                 if (input2 == "lie" && talkToSpecialPerson == "talk")
                 {
